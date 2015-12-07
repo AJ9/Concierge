@@ -1,0 +1,20 @@
+PODS:
+  - Concierge (0.1.0)
+  - Nimble (3.0.0)
+  - Quick (0.8.0)
+
+DEPENDENCIES:
+  - Concierge (from `../`)
+  - Nimble (= 3.0.0)
+  - Quick (~> 0.8.0)
+
+EXTERNAL SOURCES:
+  Concierge:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Concierge: 0e947b7ec1589b61e242948f68b84202794d1e7e
+  Nimble: 4c353d43735b38b545cbb4cb91504588eb5de926
+  Quick: 563d0f6ec5f72e394645adb377708639b7dd38ab
+
+COCOAPODS: 0.39.0
